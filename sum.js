@@ -18,6 +18,7 @@ function sum(a, b) {
       somme += s[i];
     }
   }
+  //fdgdfgdfgdfg//gfdgdfg
 
   return somme;
 }
