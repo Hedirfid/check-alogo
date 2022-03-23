@@ -14,7 +14,7 @@ function sum(a, b) {
         bool += 1;
       }
     }
-    if (bool == 0) {
+    if (bool != 0) {
       somme += s[i];
     }
   }
